@@ -1,0 +1,71 @@
+[
+  {
+    "retailer_id": "migros",
+    "name": "Migros",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Migros-Logo.svg/320px-Migros-Logo.svg.png",
+    "website": "https://www.migros.ch",
+    "description": "Switzerland's largest supermarket chain",
+    "primary_color": "#FF6600",
+    "categories": [
+      "Supermarket",
+      "Hypermarket"
+    ]
+  },
+  {
+    "retailer_id": "coop",
+    "name": "Coop",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coop_Logo.svg/320px-Coop_Logo.svg.png",
+    "website": "https://www.coop.ch",
+    "description": "Switzerland's second largest supermarket chain",
+    "primary_color": "#E30613",
+    "categories": [
+      "Supermarket",
+      "Hypermarket"
+    ]
+  },
+  {
+    "retailer_id": "denner",
+    "name": "Denner",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Denner_Logo.svg/320px-Denner_Logo.svg.png",
+    "website": "https://www.denner.ch",
+    "description": "Swiss discount supermarket chain",
+    "primary_color": "#D70926",
+    "categories": [
+      "Discount Supermarket"
+    ]
+  },
+  {
+    "retailer_id": "aldi",
+    "name": "Aldi",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aldi_Sud_logo.svg/320px-Aldi_Sud_logo.svg.png",
+    "website": "https://www.aldi-suisse.ch",
+    "description": "International discount supermarket chain",
+    "primary_color": "#009FE3",
+    "categories": [
+      "Discount Supermarket"
+    ]
+  },
+  {
+    "retailer_id": "aligro",
+    "name": "Aligro",
+    "logo_url": "https://www.aligro.ch/themes/custom/aligro/logo.svg",
+    "website": "https://www.aligro.ch",
+    "description": "Swiss cash-and-carry and wholesale food supplier",
+    "primary_color": "#E30613",
+    "categories": [
+      "Cash & Carry",
+      "Wholesale"
+    ]
+  },
+  {
+    "retailer_id": "other",
+    "name": "Other",
+    "logo_url": null,
+    "website": null,
+    "description": "Other retailers",
+    "primary_color": "#808080",
+    "categories": [
+      "Various"
+    ]
+  }
+]

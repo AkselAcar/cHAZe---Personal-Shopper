@@ -1,0 +1,388 @@
+[
+  {
+    "product_type": "apple",
+    "display_name": "Apple",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/apple.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "pommes",
+      "pomme",
+      "apple",
+      "apples"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "apple bio",
+    "display_name": "Apple Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/apple.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "pommes",
+      "pomme",
+      "apple",
+      "apples",
+      "bio",
+      "fairtrade",
+      "apple bio",
+      "apples bio",
+      "pomme bio",
+      "pommes bio"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "banana",
+    "display_name": "Banana",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/banana.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "banana bio",
+    "display_name": "Banana Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/banana.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "banane",
+      "banana",
+      "bananes",
+      "bio",
+      "fairtrade",
+      "banana bio",
+      "banane bio",
+      "bananes bio"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "bread",
+    "display_name": "Bread",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/bread.jpg",
+    "category": "bakery",
+    "search_keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "carrot",
+    "display_name": "Carrot",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/carrot.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "carrot bio",
+    "display_name": "Carrot Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/carrot.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "carrot",
+      "carrots",
+      "carotte",
+      "carottes",
+      "bio",
+      "fairtrade",
+      "carrot bio",
+      "carrots bio",
+      "carotte bio",
+      "carottes bio"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "cheese",
+    "display_name": "Cheese",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/cheese.jpg",
+    "category": "dairy products",
+    "search_keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "cheese bio",
+    "display_name": "Cheese Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/cheese.jpg",
+    "category": "dairy products",
+    "search_keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage",
+      "bio",
+      "fromage bio",
+      "cheese bio"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "chicken",
+    "display_name": "Chicken",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/chicken.jpg",
+    "category": "meats",
+    "search_keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "chicken bio",
+    "display_name": "Chicken Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/chicken.jpg",
+    "category": "meats",
+    "search_keywords": [
+      "poulet",
+      "poulet bio",
+      "chicken",
+      "chicken bio",
+      "bio",
+      "breast",
+      "escalopes"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "egg",
+    "display_name": "Egg",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/egg.jpg",
+    "category": "milk, butter, eggs",
+    "search_keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "egg bio",
+    "display_name": "Egg Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/egg.jpg",
+    "category": "milk, butter, eggs",
+    "search_keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs",
+      "bio",
+      "egg bio",
+      "eggs bio",
+      "oeuf bio",
+      "oeufs bio"
+    ],
+    "unit": "1piece"
+  },
+  {
+    "product_type": "laundry detergent",
+    "display_name": "Laundry Detergent",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/laundry_detergent.jpg",
+    "category": "hygiene product",
+    "search_keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ],
+    "unit": "1L"
+  },
+  {
+    "product_type": "milk",
+    "display_name": "Milk",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/milk.jpg",
+    "category": "milk and dairy products",
+    "search_keywords": [
+      "milk",
+      "lait"
+    ],
+    "unit": "1L"
+  },
+  {
+    "product_type": "milk bio",
+    "display_name": "Milk Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/milk.jpg",
+    "category": "milk and dairy products",
+    "search_keywords": [
+      "milk",
+      "lait",
+      "bio",
+      "milk bio",
+      "lait bio"
+    ],
+    "unit": "1L"
+  },
+  {
+    "product_type": "orange",
+    "display_name": "Orange",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/orange.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "oranges",
+      "orange"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "orange bio",
+    "display_name": "Orange Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/orange.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "oranges",
+      "orange",
+      "bio",
+      "fairtrade",
+      "oranges bio",
+      "orange bio"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "pasta",
+    "display_name": "Pasta",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/pasta.jpg",
+    "category": "carbohydrates",
+    "search_keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "potato",
+    "display_name": "Potato",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/potato.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "potato bio",
+    "display_name": "Potato Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/potato.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "potato",
+      "potato bio",
+      "bio",
+      "pomme de terre bio",
+      "pomme de terre",
+      "pommes de terre",
+      "pommes de terre bio",
+      "patates",
+      "patates bio",
+      "patate",
+      "patate bio"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "rice",
+    "display_name": "Rice",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/rice.jpg",
+    "category": "carbohydrates",
+    "search_keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "rice bio",
+    "display_name": "Rice Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/rice.jpg",
+    "category": "carbohydrates",
+    "search_keywords": [
+      "rice",
+      "basmati",
+      "riz",
+      "bio",
+      "rice bio",
+      "riz bio"
+    ],
+    "unit": "100g"
+  },
+  {
+    "product_type": "toilet paper",
+    "display_name": "Toilet Paper",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/toilet_paper.jpg",
+    "category": "hygiene product",
+    "search_keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ],
+    "unit": "1roll"
+  },
+  {
+    "product_type": "tomato",
+    "display_name": "Tomato",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/tomato.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ],
+    "unit": "1kg"
+  },
+  {
+    "product_type": "tomato bio",
+    "display_name": "Tomato Bio",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_type_images/tomato.jpg",
+    "category": "fruits and vegetables",
+    "search_keywords": [
+      "tomate",
+      "tomato",
+      "tomates",
+      "bio",
+      "fairtrade",
+      "tomato bio",
+      "tomate bio",
+      "tomates bio"
+    ],
+    "unit": "1kg"
+  }
+]

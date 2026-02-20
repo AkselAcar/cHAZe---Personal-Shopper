@@ -1,0 +1,164 @@
+[
+  {
+    "product_id": "00000042",
+    "product_name": "Migros Bio - Escalopes de poulet",
+    "discount_active": true,
+    "discounted_price": 4.56,
+    "discount_percentage": 20,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000043",
+    "product_name": "Poitrines de poulet 2 pièces env. 330g",
+    "discount_active": true,
+    "discounted_price": 2.71,
+    "discount_percentage": 20,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000038",
+    "product_name": "Fromage à pâte mi-dure Gallus Grand Cru Hardegger",
+    "discount_active": true,
+    "discounted_price": 2,
+    "discount_percentage": 18.37,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000034",
+    "product_name": "Bio Gruyère AOP rapé",
+    "discount_active": true,
+    "discounted_price": 2.4,
+    "discount_percentage": 14,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000051",
+    "product_name": "Migros Bio - Tomates Dattes",
+    "discount_active": true,
+    "discounted_price": 5.5,
+    "discount_percentage": 15.38,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000056",
+    "product_name": "Tomates à grignoter 300g",
+    "discount_active": true,
+    "discounted_price": 4.99,
+    "discount_percentage": 16.83,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000047",
+    "product_name": "Cubes de blanc de poulet Denner",
+    "discount_active": true,
+    "discounted_price": 2,
+    "discount_percentage": 19.68,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000076",
+    "product_name": "SAVEURS SUISSES Pommes de terre suisses 600 g, SUISSE GARANTIE",
+    "discount_active": true,
+    "discounted_price": 2.99,
+    "discount_percentage": 9.4,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000072",
+    "product_name": "Migros Bio - Pommes de terre - fermes",
+    "discount_active": true,
+    "discounted_price": 4.99,
+    "discount_percentage": 10.89,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000088",
+    "product_name": "Papier-toilette Camomille ecoma",
+    "discount_active": true,
+    "discounted_price": 0.5,
+    "discount_percentage": 13.79,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000082",
+    "product_name": "Soft Comfort Pure - Papier de toilette - 3 plis",
+    "discount_active": true,
+    "discounted_price": 0.7,
+    "discount_percentage": 13.58,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000104",
+    "product_name": "Oeufs Élevage en plein air Suisse 10 Pièce 53g+",
+    "discount_active": true,
+    "discounted_price": 0.4,
+    "discount_percentage": 24.53,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000108",
+    "product_name": "Oeufs bio suisses",
+    "discount_active": true,
+    "discounted_price": 0.65,
+    "discount_percentage": 16.67,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000121",
+    "product_name": "Migros Fresca - Bananes",
+    "discount_active": true,
+    "discounted_price": 2.3,
+    "discount_percentage": 8,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000126",
+    "product_name": "BIO Fairtrade Banane la pièce",
+    "discount_active": true,
+    "discounted_price": 2.5,
+    "discount_percentage": 7.06,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000134",
+    "product_name": "Naturaplan Bio Pommes Topaz env. 500g",
+    "discount_active": true,
+    "discounted_price": 5.8,
+    "discount_percentage": 7.94,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000144",
+    "product_name": "Naturaplan Bio Oranges blondes env. 1kg",
+    "discount_active": true,
+    "discounted_price": 4.5,
+    "discount_percentage": 9.09,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  },
+  {
+    "product_id": "00000131",
+    "product_name": "Migros Fresca - Pomme - rouge douce Gala",
+    "discount_active": true,
+    "discounted_price": 2.5,
+    "discount_percentage": 10.71,
+    "discount_start": "2026-01-10T00:00:00Z",
+    "discount_end": "2027-01-10T00:00:00Z"
+  }
+]

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">cHAZe</string>
+    <string name="default_user_image">user_image\n</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="confirm_button_text">CONFIRM</string>
+    <string name="pick_image_button_text">PICK IMAGE</string>
+    <string name="password_hidden_text">••••••••</string>
+    <string name="update_button_text">UPDATE</string>
+    <string name="log_out_button_text">LOG OUT</string>
+    <string name="picked_user_image">Selected image</string>
+    <string name="enter_button_text">ENTER</string>
+    <string name="user_image_content_description">User image</string>
+    <string name="my_history_navigation_label">My History</string>
+    <string name="my_history_content_description">MyHistory icon</string>
+    <string name="menu_icon_content_description">Menu icon</string>
+    <string name="about_navigation_drawer_item_text">About</string>
+    <string name="chaze_icon_content_description">cHAZe icon</string>
+    <string name="home_icon_content_description">Home icon</string>
+    <string name="home_navigation_label">Home</string>
+    <string name="current_cart_icon_content_description">Current cart icon</string>
+    <string name="current_cart_navigation_label">Cart</string>
+    <string name="chatbot_icon_content_description">Chatbot icon</string>
+    <string name="chatbot_navigation_label">Chatbot</string>
+    <string name="analytics_icon_content_description">Analytics icon</string>
+    <string name="analytics_navigation_label">Analytics</string>
+    <string name="past_baskets_icon_content_description">Past baskets icon</string>
+    <string name="past_baskets_navigation_label">History</string>
+    <string name="profile_icon_content_description">Profile icon</string>
+    <string name="profile_navigation_label">Profile</string>
+    <string name="login_button_text">Login</string>
+    <string name="username_field_label">Username</string>
+    <string name="password_field_label">Password</string>
+    <string name="chosen_basket_title">Chosen Basket</string>
+    <string name="recommended_basket_title">Recommended Basket</string>
+    <string name="current_basket_title">Current Basket</string>
+</resources>

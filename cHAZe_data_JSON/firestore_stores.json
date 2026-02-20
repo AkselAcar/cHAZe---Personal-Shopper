@@ -1,0 +1,2224 @@
+[
+  {
+    "store_id": "migros_bussigny",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1030 Bussigny-Lausanne",
+    "address": "Rue de la Gare 2",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_0",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5475465,
+      "longitude": 6.5530048
+    }
+  },
+  {
+    "store_id": "migros_chavannes_renens",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1022 Chavannes-près-Renens",
+    "address": "Avenue du Tir-Fédéral 12",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 21:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_1",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5365241,
+      "longitude": 6.576312799999999
+    }
+  },
+  {
+    "store_id": "migros_chavannes_les_cedres",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1022 Chavannes-près-Renens",
+    "address": "Avenue de la Gare 84",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 21:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_2",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5299309,
+      "longitude": 6.5724383
+    }
+  },
+  {
+    "store_id": "migros_crissier",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1023 Crissier",
+    "address": "Chemin du Closalet 7",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 21:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_3",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5539649,
+      "longitude": 6.5700047
+    }
+  },
+  {
+    "store_id": "migros_ecublens_croset",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Chemin du Croset 7",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_4",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5342046,
+      "longitude": 6.5646773
+    }
+  },
+  {
+    "store_id": "migros_ecublens_epfl",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Louis Favre 8A",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_5",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.52291229999999,
+      "longitude": 6.5657127
+    }
+  },
+  {
+    "store_id": "migros_prilly",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Route de Cossonay 9",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_6",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5331605,
+      "longitude": 6.6077537
+    }
+  },
+  {
+    "store_id": "migros_prilly_malley",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Chemin du Viaduc 1",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_7",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5274753,
+      "longitude": 6.602201600000001
+    }
+  },
+  {
+    "store_id": "migros_renens florissant",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Rue du Silo 11",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_8",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5328427,
+      "longitude": 6.586608999999999
+    }
+  },
+  {
+    "store_id": "migros_renens silo",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Avenue de Florissant 38",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "07:30 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_9",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5307909,
+      "longitude": 6.5984251
+    }
+  },
+  {
+    "store_id": "migros_renens _metropole",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Rue de la Mèbre 9",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "07:30 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_10",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5386967,
+      "longitude": 6.5805604
+    }
+  },
+  {
+    "store_id": "migros_renens _quai_ouest",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Avenue d'Epenex 4c",
+    "opening_hours": {
+      "Monday": "06:00 – 23:00",
+      "Tuesday": "06:00 – 23:00",
+      "Wednesday": "06:00 – 23:00",
+      "Thursday": "06:00 – 23:00",
+      "Friday": "06:00 – 23:00",
+      "Saturday": "06:00 – 23:00",
+      "Sunday": "06:00 – 23:00"
+    },
+    "owner_id": "business_user_11",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5375909,
+      "longitude": 6.5775355
+    }
+  },
+  {
+    "store_id": "migros_cugy",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1053 Cugy",
+    "address": "Route de Bottens 1",
+    "opening_hours": {
+      "Monday": "07:30 – 19:30",
+      "Tuesday": "07:30 – 19:30",
+      "Wednesday": "07:30 – 19:30",
+      "Thursday": "07:30 – 19:30",
+      "Friday": "07:30 – 19:30",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_12",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5857561,
+      "longitude": 6.640022399999999
+    }
+  },
+  {
+    "store_id": "migros_romanel_sur_lausanne",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1032 Romanel-s-Lausanne",
+    "address": "En Félezin",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 20:30",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_13",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5598717,
+      "longitude": 6.6122461
+    }
+  },
+  {
+    "store_id": "migros_epalinges",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1066 Epalinges",
+    "address": "Place de la Croix-Blanche 11",
+    "opening_hours": {
+      "Monday": "08:00 – 20:00",
+      "Tuesday": "08:00 – 20:00",
+      "Wednesday": "08:00 – 20:00",
+      "Thursday": "08:00 – 20:00",
+      "Friday": "08:00 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_14",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.54843349999999,
+      "longitude": 6.6708956
+    }
+  },
+  {
+    "store_id": "migros_mezieres",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1083 Mézières",
+    "address": "Route de la Croix d'Or 2",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "08:00-18:00",
+      "Sunday": "08:00-13:00"
+    },
+    "owner_id": "business_user_15",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5962593,
+      "longitude": 6.7697784
+    }
+  },
+  {
+    "store_id": "migros_pully",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1009 Pully",
+    "address": "Chemin du Pré-de-la-Tour 3",
+    "opening_hours": {
+      "Monday": "08:00 – 20:00",
+      "Tuesday": "08:00 – 20:00",
+      "Wednesday": "08:00 – 20:00",
+      "Thursday": "08:00 – 20:00",
+      "Friday": "08:00 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_16",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5116603,
+      "longitude": 6.6599434
+    }
+  },
+  {
+    "store_id": "migros_lausanne_flon_europe",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Place de l'Europe 8",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_17",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5206723,
+      "longitude": 6.6297278
+    }
+  },
+  {
+    "store_id": "migros_lasuanne_metropole",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Rue des Terreaux 25",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00-18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_18",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5226895,
+      "longitude": 6.627373599999999
+    }
+  },
+  {
+    "store_id": "migros_lausanne_closelet",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1006 Lausanne",
+    "address": "Avenue d'Ouchy 11",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_19",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.51471780000001,
+      "longitude": 6.6327913
+    }
+  },
+  {
+    "store_id": "migros_lausanne_la_borde",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Rue de la Borde 3B",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_20",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5269737,
+      "longitude": 6.633175899999999
+    }
+  },
+  {
+    "store_id": "migros_lausanne_la_harpe",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue de la Harpe 17",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_21",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5124173,
+      "longitude": 6.6259425
+    }
+  },
+  {
+    "store_id": "migros_maupas",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Rue du Maupas 69",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_22",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5259813,
+      "longitude": 6.623571999999999
+    }
+  },
+  {
+    "store_id": "migros_lasuanne_cour",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue de Cour 36",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_23",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5156682,
+      "longitude": 6.617809400000001
+    }
+  },
+  {
+    "store_id": "migros_lasuanne_sevelin",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Av. de Sévelin 2 Ab",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_24",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5216214,
+      "longitude": 6.616314399999999
+    }
+  },
+  {
+    "store_id": "migros_pontaise",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Avenue Jomini 11",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_25",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5301481,
+      "longitude": 6.628209999999999
+    }
+  },
+  {
+    "store_id": "migros_mp_ouchy",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue de Rhodanie 2",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_26",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5110738,
+      "longitude": 6.6167514
+    }
+  },
+  {
+    "store_id": "migros_lausanne_saint_paul",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Avenue d'Echallens 63",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_27",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.527815,
+      "longitude": 6.615917199999999
+    }
+  },
+  {
+    "store_id": "migros_lausanne_bergieres",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Avenue des Bergières 50",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_28",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5313735,
+      "longitude": 6.6184395
+    }
+  },
+  {
+    "store_id": "migros_lausanne_chailly",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1012 Lausanne",
+    "address": "Avenue de la Vallonnette 2",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_29",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.526895,
+      "longitude": 6.6519569
+    }
+  },
+  {
+    "store_id": "migros_lausanne_la_sallaz",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1010 Lausanne",
+    "address": "Route de Berne 1",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_30",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5333048,
+      "longitude": 6.6467556
+    }
+  },
+  {
+    "store_id": "migros_lausanne_bellevaux",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Route Aloys-Fauquez 97",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_31",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5376068,
+      "longitude": 6.633473
+    }
+  },
+  {
+    "store_id": "migros_lausanne_blecherette",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Chemin des Bossons 52",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_32",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5394053,
+      "longitude": 6.618186199999999
+    }
+  },
+  {
+    "store_id": "migros_lutry_la_conversion",
+    "name": "Migros",
+    "type": "Supermarket",
+    "location_text": "1093 La Conversion",
+    "address": "Route de la Conversion 314",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_33",
+    "retailer_id": "migros",
+    "coordinates": {
+      "latitude": 46.5133792,
+      "longitude": 6.6769263
+    }
+  },
+  {
+    "store_id": "denner_bussigny_mm_center",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1030 Bussigny-Lausanne",
+    "address": "Rue de la Gare 2",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_34",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5475465,
+      "longitude": 6.5530048
+    }
+  },
+  {
+    "store_id": "denner_prefaully",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1022 Chavannes-Renens",
+    "address": "Avenue de Préfaully 15b",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_35",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5338654,
+      "longitude": 6.578504
+    }
+  },
+  {
+    "store_id": "denner_maladiere",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1023 Chavannes-Renens",
+    "address": "Route de la maladière 6",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_36",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.528281,
+      "longitude": 6.5676568
+    }
+  },
+  {
+    "store_id": "denner_closalet",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1023 Crissier",
+    "address": "Ch. du Closalet 7",
+    "opening_hours": {
+      "Monday": "08:30-20:00",
+      "Tuesday": "08:30-20:00",
+      "Wednesday": "08:30-20:00",
+      "Thursday": "08:30-20:00",
+      "Friday": "08:30-21:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_37",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5539649,
+      "longitude": 6.5700047
+    }
+  },
+  {
+    "store_id": "denner_croset",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Chemin du Croset 9",
+    "opening_hours": {
+      "Monday": "08:00 – 20:00",
+      "Tuesday": "08:00 – 20:00",
+      "Wednesday": "08:00 – 20:00",
+      "Thursday": "08:00 – 20:00",
+      "Friday": "08:00 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_38",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5342181,
+      "longitude": 6.5638479
+    }
+  },
+  {
+    "store_id": "denner_favre",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Route Louis Favre 8b",
+    "opening_hours": {
+      "Monday": "07:30 – 20:00",
+      "Tuesday": "07:30 – 20:00",
+      "Wednesday": "07:30 – 20:00",
+      "Thursday": "07:30 – 20:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_39",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5226964,
+      "longitude": 6.5657162
+    }
+  },
+  {
+    "store_id": "denner_viaduc",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Ch. du Viaduc 1",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_40",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5274753,
+      "longitude": 6.602201600000001
+    }
+  },
+  {
+    "store_id": "denner_florissant",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Avenue de Florissant 24",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_41",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5333328,
+      "longitude": 6.5982783
+    }
+  },
+  {
+    "store_id": "denner_simplon",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1021 Renens",
+    "address": "Rue du Simplon 27",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "08:00 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_42",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5341274,
+      "longitude": 6.5828709
+    }
+  },
+  {
+    "store_id": "denner_mebre",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1022 Renens",
+    "address": "Rue de la Mebre 9",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "07:30 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_43",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5386967,
+      "longitude": 6.5805604
+    }
+  },
+  {
+    "store_id": "denner_bottens",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1053 Cugy",
+    "address": "Rte de Bottens 1",
+    "opening_hours": {
+      "Monday": "07:30 – 19:30",
+      "Tuesday": "07:30 – 19:30",
+      "Wednesday": "07:30 – 19:30",
+      "Thursday": "07:30 – 19:30",
+      "Friday": "07:30 – 19:30",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_44",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5857561,
+      "longitude": 6.640022399999999
+    }
+  },
+  {
+    "store_id": "denner_maillefer",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1052 Mont-sur-Lausanne",
+    "address": "Ch. De Maillefer 59",
+    "opening_hours": {
+      "Monday": "07:00 – 19:00",
+      "Tuesday": "07:00 – 19:00",
+      "Wednesday": "07:00 – 19:00",
+      "Thursday": "07:00 – 19:00",
+      "Friday": "07:00 – 19:00",
+      "Saturday": "07:00 – 20:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_45",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.541788,
+      "longitude": 6.6282125
+    }
+  },
+  {
+    "store_id": "denner_felezin",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1032 Romanel-s-Lausanne",
+    "address": "En Félezin",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 20:30",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_46",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5598717,
+      "longitude": 6.6122461
+    }
+  },
+  {
+    "store_id": "denner_romanel",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1033 Romanel-s-Lausanne",
+    "address": "rte de Neuchâtel 10",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_47",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5735742,
+      "longitude": 6.6059529
+    }
+  },
+  {
+    "store_id": "denner_arnier",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1092 Belmont-Lausanne",
+    "address": "Rte d'Arnier 4/6",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 17:00",
+      "Sunday": "08:00-12:00"
+    },
+    "owner_id": "business_user_48",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5234235,
+      "longitude": 6.6785749
+    }
+  },
+  {
+    "store_id": "denner_blanche",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1066 Epalinges",
+    "address": "Pl. Croix Blanche 7",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 20:00",
+      "Saturday": "07:30 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_49",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5480048,
+      "longitude": 6.670872
+    }
+  },
+  {
+    "store_id": "denner_charrettaz",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1094 Paudex",
+    "address": "Ch. de la Charrettaz 6",
+    "opening_hours": {
+      "Monday": "08:00 – 19:00",
+      "Tuesday": "08:00 – 19:00",
+      "Wednesday": "08:00 – 19:00",
+      "Thursday": "08:00 – 19:00",
+      "Friday": "08:00 – 19:00",
+      "Saturday": "08:00 – 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_50",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5068595,
+      "longitude": 6.6713159
+    }
+  },
+  {
+    "store_id": "denner_forum",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1073 Savigny",
+    "address": "Place Forum 2",
+    "opening_hours": {
+      "Monday": "07:30 – 19:00",
+      "Tuesday": "07:30 – 19:00",
+      "Wednesday": "07:30 – 19:00",
+      "Thursday": "07:30 – 19:00",
+      "Friday": "07:30 – 20:00",
+      "Saturday": "08:00 – 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_51",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5391369,
+      "longitude": 6.7307093
+    }
+  },
+  {
+    "store_id": "denner_lausanne_metropole",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1000 Lausanne",
+    "address": "Rue des Terreaux 25",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_52",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5224687,
+      "longitude": 6.6280014
+    }
+  },
+  {
+    "store_id": "denner_lausanne_ouchy",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1006 Lausanne",
+    "address": "Avenue d'Ouchy 11",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_53",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.51471780000001,
+      "longitude": 6.6327913
+    }
+  },
+  {
+    "store_id": "denner_lausanne_grancy",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1006 Lausanne",
+    "address": "Bd de Grancy 37",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_54",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5160485,
+      "longitude": 6.6266048
+    }
+  },
+  {
+    "store_id": "denner_lausanne_tunnel",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Rue de la Borde 3",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_55",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5274401,
+      "longitude": 6.632931699999999
+    }
+  },
+  {
+    "store_id": "denner_lausanne_echallens",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Av. D'Echallens 68",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_56",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.52786589999999,
+      "longitude": 6.6170619
+    }
+  },
+  {
+    "store_id": "denner_lausanne_colline",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Chemin de la Colline 4",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_57",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5214957,
+      "longitude": 6.612961299999999
+    }
+  },
+  {
+    "store_id": "denner_lausanne_entrebois",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Ch. D'Entrebois 4",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_58",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5367522,
+      "longitude": 6.6327802
+    }
+  },
+  {
+    "store_id": "denner_lausanne_bethusy",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1012 Lausanne",
+    "address": "Avenue Bethusy 93",
+    "opening_hours": {
+      "Monday": "07:00 - 19:00",
+      "Tuesday": "07:00 - 19:00",
+      "Wednesday": "07:00 - 19:00",
+      "Thursday": "07:00 - 19:00",
+      "Friday": "07:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_59",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5269803,
+      "longitude": 6.6512118
+    }
+  },
+  {
+    "store_id": "denner_lausanne_vallonnette",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1012 Lausanne",
+    "address": "Avenue de la Vallonnette 2",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_60",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.526895,
+      "longitude": 6.6519569
+    }
+  },
+  {
+    "store_id": "denner_lausanne_cour",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Av. de Cour 143",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_61",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5180584,
+      "longitude": 6.6084559
+    }
+  },
+  {
+    "store_id": "denner_lausanne_pont_des_sauges",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Av. du Grey 58",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_62",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5362585,
+      "longitude": 6.620329
+    }
+  },
+  {
+    "store_id": "denner_lausanne_montolieu",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1010 Lausanne",
+    "address": "Isabelle de Montolieu 115",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_63",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.5435486,
+      "longitude": 6.647269499999999
+    }
+  },
+  {
+    "store_id": "denner_lausanne_boveresses",
+    "name": "Denner",
+    "type": "Supermarket",
+    "location_text": "1010 Lausanne",
+    "address": "Avenue des Boveresses 33",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_64",
+    "retailer_id": "denner",
+    "coordinates": {
+      "latitude": 46.53835110000001,
+      "longitude": 6.666415
+    }
+  },
+  {
+    "store_id": "coop_ecublens",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Chemin du Croset 3",
+    "opening_hours": {
+      "Monday": "08:00 - 19:30",
+      "Tuesday": "08:00 - 19:30",
+      "Wednesday": "08:00 - 19:30",
+      "Thursday": "08:00 - 19:30",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_65",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5345255,
+      "longitude": 6.565293199999999
+    }
+  },
+  {
+    "store_id": "coop_renens",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1020 Renens",
+    "address": "Place du Marché 1",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 17:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_66",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.53837240000001,
+      "longitude": 6.582189
+    }
+  },
+  {
+    "store_id": "coop_crissier",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1023 Crissier",
+    "address": "Chemin de Saugy 1",
+    "opening_hours": {
+      "Monday": "08:30 - 19:30",
+      "Tuesday": "08:30 - 19:30",
+      "Wednesday": "08:30 - 19:30",
+      "Thursday": "08:30 - 19:30",
+      "Friday": "08:30 - 21:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_67",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5452118,
+      "longitude": 6.5697679
+    }
+  },
+  {
+    "store_id": "coop_etagnieres",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1037 Etagnières",
+    "address": "Route en Rambuz 21",
+    "opening_hours": {
+      "Monday": "07:30 - 19:30",
+      "Tuesday": "07:30 - 19:30",
+      "Wednesday": "07:30 - 19:30",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 19:30",
+      "Saturday": "07:30 - 19:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_68",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5942648,
+      "longitude": 6.608727300000001
+    }
+  },
+  {
+    "store_id": "coop_cheseaux",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1033 Cheseaux",
+    "address": "Rue du Pâquis 2",
+    "opening_hours": {
+      "Monday": "07:30 - 19:30",
+      "Tuesday": "07:30 - 19:30",
+      "Wednesday": "07:30 - 19:30",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 19:30",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_69",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5863952,
+      "longitude": 6.6046895
+    }
+  },
+  {
+    "store_id": "coop_prilly_centre",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Route de Cossonay 28",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_70",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.53457909999999,
+      "longitude": 6.6060859
+    }
+  },
+  {
+    "store_id": "coop_prilly_business_parc",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Route de Renens 24",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 20:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_71",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5296552,
+      "longitude": 6.6014503
+    }
+  },
+  {
+    "store_id": "coop_prilly_malley",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1008 Prilly",
+    "address": "Avenue du Chablais 41",
+    "opening_hours": {
+      "Monday": "07:00 - 19:00",
+      "Tuesday": "07:00 - 19:00",
+      "Wednesday": "07:00 - 19:00",
+      "Thursday": "07:00 - 19:00",
+      "Friday": "07:00 - 20:00",
+      "Saturday": "07:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_72",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5246769,
+      "longitude": 6.6027089
+    }
+  },
+  {
+    "store_id": "coop_lausanne_bergieres",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Avenue des Bergières 42",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_73",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5307618,
+      "longitude": 6.619541
+    }
+  },
+  {
+    "store_id": "coop_lausanne_prélaz",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1004 Lausanne",
+    "address": "Avenue de Morges 60",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_74",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5268891,
+      "longitude": 6.6128683
+    }
+  },
+  {
+    "store_id": "coop_lausanne_cour",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue de Cour 105",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_75",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5159931,
+      "longitude": 6.6135531
+    }
+  },
+  {
+    "store_id": "coop_lausanne_entrebois",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Chemin d'Entre Bois 17",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_76",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.53768119999999,
+      "longitude": 6.6319602
+    }
+  },
+  {
+    "store_id": "coop_le_mont_sur_lausanne",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1052 Le Mont-sur-Lausanne",
+    "address": "Route de Lausanne 33",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_77",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5540757,
+      "longitude": 6.6348284
+    }
+  },
+  {
+    "store_id": "coop_lausanne_rouvraie",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Avenue Parc-de-la-Rouvraie 3",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_78",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5309034,
+      "longitude": 6.6346912
+    }
+  },
+  {
+    "store_id": "coop_lausanne_pontaise",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1018 Lausanne",
+    "address": "Rue de la Pontaise 14",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_79",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5294351,
+      "longitude": 6.6304612
+    }
+  },
+  {
+    "store_id": "coop_city_lausanne",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Rue Saint-Laurent 24-30",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_80",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5228152,
+      "longitude": 6.6305121
+    }
+  },
+  {
+    "store_id": "coop_lausanne_grancy",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1006 Lausanne",
+    "address": "Boulevard de Grancy 4",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_81",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5152779,
+      "longitude": 6.631418200000001
+    }
+  },
+  {
+    "store_id": "coop_lausanne_la_harpe",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue de la Harpe 33",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_82",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.51025780000001,
+      "longitude": 6.6262348
+    }
+  },
+  {
+    "store_id": "coop_lausanne_caroline",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Rue Caroline 6",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_83",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5207736,
+      "longitude": 6.6376813
+    }
+  },
+  {
+    "store_id": "coop_city_lausanne_st_francois",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1005 Lausanne",
+    "address": "Avenue du Théâtre 4",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_84",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.518541,
+      "longitude": 6.635155000000001
+    }
+  },
+  {
+    "store_id": "coop_la_sallaz",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1010 Lausanne",
+    "address": "Place de la Sallaz 3",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_85",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5327115,
+      "longitude": 6.6465473
+    }
+  },
+  {
+    "store_id": "coop_epalinges",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1066 Epalinges",
+    "address": "Chemin des Croisettes 10",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_86",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5436837,
+      "longitude": 6.660117899999999
+    }
+  },
+  {
+    "store_id": "coop_lausanne_chailly",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1012 Lausanne",
+    "address": "Avenue de Chailly 9",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_87",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5258261,
+      "longitude": 6.652152
+    }
+  },
+  {
+    "store_id": "coop_lausanne_chissiez",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1006 Lausanne",
+    "address": "Chemin des Faverges 15",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_88",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.51402849999999,
+      "longitude": 6.6471642
+    }
+  },
+  {
+    "store_id": "coop_pully",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1009 Pully",
+    "address": "Avenue des Collèges 1",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 20:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_89",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5105357,
+      "longitude": 6.6586135
+    }
+  },
+  {
+    "store_id": "coop_savigny",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1073 Savigny",
+    "address": "Route de la Claie-aux-Moines 1",
+    "opening_hours": {
+      "Monday": "07:30 - 19:30",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:30",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 19:30",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_90",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5383382,
+      "longitude": 6.7311075
+    }
+  },
+  {
+    "store_id": "coop_lutry",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1095 Lutry",
+    "address": "Route de l'Ancienne Ciblerie 2",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 20:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_91",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5058405,
+      "longitude": 6.6884589
+    }
+  },
+  {
+    "store_id": "coop_lutry_la_corniche",
+    "name": "Coop",
+    "type": "Supermarket",
+    "location_text": "1095 Lutry",
+    "address": "La Petite Corniche 7",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_92",
+    "retailer_id": "coop",
+    "coordinates": {
+      "latitude": 46.5010611,
+      "longitude": 6.6953939
+    }
+  },
+  {
+    "store_id": "aldi_ecublens",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1024 Ecublens",
+    "address": "Route de Reculan 7",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_93",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.5391533,
+      "longitude": 6.554393200000001
+    }
+  },
+  {
+    "store_id": "aldi_chavannes_pres_renens",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1022 Chavannes-près-Renens",
+    "address": "Avenue de la Concorde 18",
+    "opening_hours": {
+      "Monday": "08:00 - 20:00",
+      "Tuesday": "08:00 - 20:00",
+      "Wednesday": "08:00 - 20:00",
+      "Thursday": "08:00 - 20:00",
+      "Friday": "08:00 - 21:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_94",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.5322729,
+      "longitude": 6.573963
+    }
+  },
+  {
+    "store_id": "aldi_bussigny",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1030 Bussigny",
+    "address": "Boulevard de l'Arc-en-Ciel 45",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_95",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.54601770000001,
+      "longitude": 6.564326299999999
+    }
+  },
+  {
+    "store_id": "aldi_lausanne_chablais",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1007 Lausanne",
+    "address": "Avenue du Chablais 3B",
+    "opening_hours": {
+      "Monday": "07:00 - 19:00",
+      "Tuesday": "07:00 - 19:00",
+      "Wednesday": "07:00 - 19:00",
+      "Thursday": "07:00 - 19:00",
+      "Friday": "07:00 - 19:00",
+      "Saturday": "07:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_96",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.5268582,
+      "longitude": 6.6037436
+    }
+  },
+  {
+    "store_id": "aldi_lausanne_terreaux",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Rue des Terreaux 25",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_97",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.5226895,
+      "longitude": 6.627373599999999
+    }
+  },
+  {
+    "store_id": "aldi_lausanne_saint_martin",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1003 Lausanne",
+    "address": "Rue Saint-Martin 3",
+    "opening_hours": {
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_98",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.5215028,
+      "longitude": 6.636551099999999
+    }
+  },
+  {
+    "store_id": "aldi_lausanne_oron",
+    "name": "Aldi",
+    "type": "Supermarket",
+    "location_text": "1000 Lausanne",
+    "address": "Route d'Oron 39",
+    "opening_hours": {
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_99",
+    "retailer_id": "aldi",
+    "coordinates": {
+      "latitude": 46.53550509999999,
+      "longitude": 6.6555693
+    }
+  },
+  {
+    "store_id": "aligro_chavannes",
+    "name": "Aligro",
+    "type": "Supermarket",
+    "location_text": "1022 Chavannes-près-Renens",
+    "address": "Avenue de la Concorde 6",
+    "opening_hours": {
+      "Monday": "08:00 - 20:00",
+      "Tuesday": "08:00 - 20:00",
+      "Wednesday": "08:00 - 20:00",
+      "Thursday": "08:00 - 20:00",
+      "Friday": "08:00 - 21:00",
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "closed"
+    },
+    "owner_id": "business_user_100",
+    "retailer_id": "aligro",
+    "coordinates": {
+      "latitude": 46.5336777,
+      "longitude": 6.5723851
+    }
+  }
+]

@@ -1,0 +1,2170 @@
+[
+  {
+    "product_id": "00000001",
+    "name": "M-Classic - Lait écrémé - 0.1% de gras - UHT",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-classic-leger-milk-uht-ip-suisse.jpg",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000002",
+    "name": "Valflora IP-SUISSE - Lait partiellement écrémé - 1.5% de gras, UHT",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/valflora-m-drink-uht-ip-suisse.jpg",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000003",
+    "name": "Naturaplan Bio Lait entier pasteurisé 3.9% gras",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3081654_001.jpg",
+    "general_unit": "1L",
+    "product_type": "milk bio",
+    "keywords": [
+      "milk",
+      "lait",
+      "bio",
+      "milk bio",
+      "lait bio"
+    ]
+  },
+  {
+    "product_id": "00000004",
+    "name": "Lait drink Prix Garantie 1,5% UHT",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7076404_001.jpg",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000005",
+    "name": "MILFINA Lait UHT 1.5 % de matière grasse",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/288432_64951-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000006",
+    "name": "RETOUR AUX SOURCES BIO Lait UHT 2.7 % de matière grasse",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/319555_721396-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1L",
+    "product_type": "milk bio",
+    "keywords": [
+      "milk",
+      "lait",
+      "bio",
+      "milk bio",
+      "lait bio"
+    ]
+  },
+  {
+    "product_id": "00000007",
+    "name": "Lait drink Denner",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/927481_2_c_K.png",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000008",
+    "name": "Lait entier bio Emmi",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/904343_22_09_14.png",
+    "general_unit": "1L",
+    "product_type": "milk bio",
+    "keywords": [
+      "milk",
+      "lait",
+      "bio",
+      "milk bio",
+      "lait bio"
+    ]
+  },
+  {
+    "product_id": "00000009",
+    "name": "Lait drink Good Day UHT, 1.5% M.G., sans lactose, Emmi",
+    "category": "milk and dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/45460_FR_1.webp",
+    "general_unit": "1L",
+    "product_type": "milk",
+    "keywords": [
+      "milk",
+      "lait"
+    ]
+  },
+  {
+    "product_id": "00000010",
+    "name": null,
+    "category": "milk and dairy products",
+    "image_url": null,
+    "general_unit": "1L",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000011",
+    "name": "M-Classic IP-SUISSE - Pain pour toasts clair en tranche - Toast & Sandwich",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-classic-toast-sandwich.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000012",
+    "name": "M-Budget - Toasts pain de froment foncé",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-budget-toast-pain-de-froment-fonce.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000013",
+    "name": "Pain de mie 10 tranches",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3735238_001.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000014",
+    "name": "Prix Garantie pain de mie 900G",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7121375_001.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000015",
+    "name": "AMERICAN Pain de mie",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/319510_721364-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000016",
+    "name": "MAITRE BOULANGER Pain de mie complet",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8906714841089_721361-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000017",
+    "name": "Pain de mie complet La Boulangère",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/664164_25_07_10.png",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000018",
+    "name": "Toast clair IP-SUISSE",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801881_23_04_14.png",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000019",
+    "name": "Pain marguerite, de notre boulangerie artisanale",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/14377_FR_1.webp",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000020",
+    "name": "Petit pain d'épeautre, Romer's",
+    "category": "bakery",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/petit-pain-d-epeautre-romer-s",
+    "general_unit": "100g",
+    "product_type": "bread",
+    "keywords": [
+      "bread",
+      "pain",
+      "toast",
+      "baguette"
+    ]
+  },
+  {
+    "product_id": "00000021",
+    "name": "M-Classic - penne - avec oeufs",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-classic-pennes.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000022",
+    "name": "M-Classic · spaghetti 1.8mm · avec oeufs",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-classic-spaghettis.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000023",
+    "name": "Barilla Integrale Penne Rigate au blé complet",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3587474_001.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000024",
+    "name": "Spaghettis Prix Garantie",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7362486_001.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000025",
+    "name": "BARILLA Spaghetti N°5",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8893158653953_18190-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000026",
+    "name": "CUCINA NOBILE Spaghetti N°5",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8890257571841_815463-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000027",
+    "name": "Pâte brisée avec farine IP-SUISSE",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/904110_23_04_13.png",
+    "general_unit": "100g",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000028",
+    "name": "Pâte à pizza IP-SUISSE",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/904113_23_04_13.png",
+    "general_unit": "100g",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000029",
+    "name": "Spaghetti n° 5, Barilla",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6020_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000030",
+    "name": "Penne rigate n° 73, Barilla",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/25389_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "pasta",
+    "keywords": [
+      "pasta",
+      "pâtes",
+      "spaghetti",
+      "pates",
+      "pate",
+      "penne",
+      "barilla"
+    ]
+  },
+  {
+    "product_id": "00000031",
+    "name": "Migros Bio AOP - Gruyère râpé",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-le-gruyere-rape.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese bio",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage",
+      "bio",
+      "fromage bio",
+      "cheese bio"
+    ]
+  },
+  {
+    "product_id": "00000032",
+    "name": "Le Gruyère AOP - Fromage suisse à pâte dure, gras, au lait cru · râpé",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/le-gruyere-rape.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000033",
+    "name": "Gruyère râpé",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/4379853_001.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000034",
+    "name": "Bio Gruyère AOP rapé",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6413389_001.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese bio",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage",
+      "bio",
+      "fromage bio",
+      "cheese bio"
+    ]
+  },
+  {
+    "product_id": "00000035",
+    "name": "ROI DE TRÈFLE Fromage en tranches, épicé",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8816283025409_806608-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000036",
+    "name": "ROI DE TRÈFLE Fromage en tranches, classique",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8882299076609_806608-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000037",
+    "name": "Fromage Le Gruyère AOP",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/902512_24_05_02.png",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000038",
+    "name": "Fromage à pâte mi-dure Gallus Grand Cru Hardegger",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/fromage-a-pate-mi-dure-gallus-grand-cru-hardegger~p1009237",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000039",
+    "name": "Gruyère AOP, râpé, Emmi",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/58863_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000040",
+    "name": "Gruyère AOP, classic, doux, en tranches, Cremo",
+    "category": "dairy products",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/58086_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "cheese",
+    "keywords": [
+      "aop",
+      "dairy",
+      "gruyere",
+      "gruyère",
+      "cheese",
+      "fromage"
+    ]
+  },
+  {
+    "product_id": "00000041",
+    "name": "Optigal - Escalopes de poulet",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/optigal-escalope-de-poulet-2-pieces.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000042",
+    "name": "Migros Bio - Escalopes de poulet",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-escalope-de-poulet.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken bio",
+    "keywords": [
+      "poulet",
+      "poulet bio",
+      "chicken",
+      "chicken bio",
+      "bio",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000043",
+    "name": "Poitrines de poulet 2 pièces env. 330g",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3560346_001.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000044",
+    "name": "Blancs de poulet Prix Garantie env. 500g",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7205944_001.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000045",
+    "name": "COUNTRY'S BEST Filet de poitrine de poulet",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8839183204353_52760-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000046",
+    "name": "COUNTRY'S BEST Filet de poitrine de poulet",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8922604535809_731623-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000047",
+    "name": "Cubes de blanc de poulet Denner",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/904326_25_11_11_kombi.png",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000048",
+    "name": "Blancs de poulet Denner",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/901033_24_02_09.png",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000049",
+    "name": "Escalopes de poulet frais, 170-240 g, de Suisse, env. 2.7 kg",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/419314_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000050",
+    "name": "Aiguillettes de poulet frais, de l'UE",
+    "category": "meats",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/457605_FR_1.jpeg",
+    "general_unit": "100g",
+    "product_type": "chicken",
+    "keywords": [
+      "poulet",
+      "chicken",
+      "breast",
+      "escalopes"
+    ]
+  },
+  {
+    "product_id": "00000051",
+    "name": "Migros Bio - Tomates Dattes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-tomates-dattes.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato bio",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates",
+      "bio",
+      "fairtrade",
+      "tomato bio",
+      "tomate bio",
+      "tomates bio"
+    ]
+  },
+  {
+    "product_id": "00000052",
+    "name": "Migros Fresca - Tomates grappe cerises - Aromatico",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/tomates-aromatico.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000053",
+    "name": "Tomates en grappes env. 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3090149_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000054",
+    "name": "Primagusto Tomates cerises en grappes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/4314963_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000055",
+    "name": "Tomates 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-719783_719783-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000056",
+    "name": "Tomates à grignoter 300g",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-719778_719778-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000057",
+    "name": "Tomates en grappe",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/800968_25_05_05_OFFEN.png",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000058",
+    "name": "Tomates spéciales",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/800705_2_c_K.png",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000059",
+    "name": "Tomates en grappe, en barquette",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/35428_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000060",
+    "name": "Tomates grappe GRTA, en barquette",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/76508_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "tomato",
+    "keywords": [
+      "tomate",
+      "tomato",
+      "tomates"
+    ]
+  },
+  {
+    "product_id": "00000061",
+    "name": "Migros Fresca - Carottes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/carottes.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000062",
+    "name": "Migros Bio - Carottes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-carottes.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot bio",
+    "keywords": [
+      "carrot",
+      "carrots",
+      "carotte",
+      "carottes",
+      "bio",
+      "fairtrade",
+      "carrot bio",
+      "carrots bio",
+      "carotte bio",
+      "carottes bio"
+    ]
+  },
+  {
+    "product_id": "00000063",
+    "name": "Naturaplan Bio Carottes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7019434_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot bio",
+    "keywords": [
+      "carrot",
+      "carrots",
+      "carotte",
+      "carottes",
+      "bio",
+      "fairtrade",
+      "carrot bio",
+      "carrots bio",
+      "carotte bio",
+      "carottes bio"
+    ]
+  },
+  {
+    "product_id": "00000064",
+    "name": "Carottes IP-Suisse env. 500g",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7219839_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000065",
+    "name": "Carottes à grignoter 200g",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-701202_701202-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000066",
+    "name": "Carottes suisses 1.5kg, SUISSE GARANTIE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-29483_29483-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000067",
+    "name": "Carottes IP-SUISSE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/802115_25_04_17.png",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000068",
+    "name": "Carottes snack",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/802115_25_04_17.png",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000069",
+    "name": "Carottes, en bâtonnets, Ditzler",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/82443_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "carrot",
+    "keywords": [
+      "carotte",
+      "carrot",
+      "carrots",
+      "carottes"
+    ]
+  },
+  {
+    "product_id": "00000070",
+    "name": null,
+    "category": "fruits and vegetables",
+    "image_url": null,
+    "general_unit": "1kg",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000071",
+    "name": "Migros Fresca - Pommes de terre - fermes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/pommes-de-terre-ferme.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000072",
+    "name": "Migros Bio - Pommes de terre - fermes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-grenailles.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato bio",
+    "keywords": [
+      "potato",
+      "potato bio",
+      "bio",
+      "pomme de terre bio",
+      "pomme de terre",
+      "pommes de terre",
+      "pommes de terre bio",
+      "patates",
+      "patates bio",
+      "patate",
+      "patate bio"
+    ]
+  },
+  {
+    "product_id": "00000073",
+    "name": "Pommes de terre fermes à la cuisson IP-Suisse",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7002919_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000074",
+    "name": "Petites pommes de terre fermes à la cuisson bio Naturaplan",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6377083_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato bio",
+    "keywords": [
+      "potato",
+      "potato bio",
+      "bio",
+      "pomme de terre bio",
+      "pomme de terre",
+      "pommes de terre",
+      "pommes de terre bio",
+      "patates",
+      "patates bio",
+      "patate",
+      "patate bio"
+    ]
+  },
+  {
+    "product_id": "00000075",
+    "name": "NATURE SUISSE Pommes de terre 2kg, SUISSE GARANTIE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-48101_48101-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000076",
+    "name": "SAVEURS SUISSES Pommes de terre suisses 600 g, SUISSE GARANTIE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-48101_48101-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000077",
+    "name": "Pommes de terre IP-SUISSE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801744_25_04_17_OFFEN.png",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000078",
+    "name": "Pommes de terre",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/661579_25_04_17_OFFEN.png",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000079",
+    "name": "Pommes de terre pour frites GRTA",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/76565_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000080",
+    "name": "Pommes de terre fermes, de Suisse",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/63319_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "potato",
+    "keywords": [
+      "potato",
+      "pommes de terre",
+      "pomme de terre",
+      "patates",
+      "patate"
+    ]
+  },
+  {
+    "product_id": "00000081",
+    "name": "Soft Comfort Recycling - Papier de toilette - 3 plis",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/soft-comfort-recycling-3-epaisseurs.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000082",
+    "name": "Soft Comfort Pure - Papier de toilette - 3 plis",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/soft-comfort-pure-3-epaisseurs.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000083",
+    "name": "Prix Garantie Toilettenpapier 3-lagig 20 Rollen",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6485300_001.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000084",
+    "name": "Prix Garantie Papier hygiénique 3 épaisseurs 10 rouleaux",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6467117_001.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000085",
+    "name": "KOKETT Papier toilette, 3 épaisseurs",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8861124132865_6601-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000086",
+    "name": "KOKETT Papier hygiénique, 4 épaisseurs",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/524817_830554-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000087",
+    "name": "Papier-toilette Comfort Denner",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/049020_24_08_02.png",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000088",
+    "name": "Papier-toilette Camomille ecoma",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/049035_22_03_14.png",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000089",
+    "name": "Papier WC, blanc, 4 couches, Tempo",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/83157_FR_1.webp",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000090",
+    "name": "Papier WC camomille, 4 couches, Tempo",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/83158_FR_1.webp",
+    "general_unit": "1roll",
+    "product_type": "toilet paper",
+    "keywords": [
+      "toilet",
+      "paper",
+      "papier",
+      "toilet paper",
+      "papier toilette"
+    ]
+  },
+  {
+    "product_id": "00000091",
+    "name": "Total 1 for all - Lessive liquide - 36 lessives",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/total-lessive-liquide-36-lavages-1-for-all.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000092",
+    "name": "Ariel Universal + Lessive liquide -80 lessives",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/ariel-produit-de-lessive-complet-liquide-80-lavages.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000093",
+    "name": "Lessive liquide Omo Universelle 100 lavages",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7258373_001.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000094",
+    "name": "Lessive Perwoll Wool & Delicates 52 lavages",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7253535_001.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000095",
+    "name": "TANDIL Lessive complète Deluxe",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8929830764545_835331-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000096",
+    "name": "TANDIL Lessive spéciale Sensitiv",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/596863003_841780-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000097",
+    "name": "Lessive liquide Musc Blanc Chanteclair",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/041385_24_03_19.png",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000098",
+    "name": "Lessive en gel Color Persil",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/041034_25_02_27.png",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000099",
+    "name": "Omo liquide Color Clean",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/455941_FR_1.jpeg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000100",
+    "name": "Omo liquide Universal Clean",
+    "category": "hygiene product",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/455939_FR_1.jpeg",
+    "general_unit": "1L",
+    "product_type": "laundry detergent",
+    "keywords": [
+      "laundry",
+      "detergent",
+      "lessive",
+      "laundry detergent",
+      "détergent",
+      "liquide lessive",
+      "liquide"
+    ]
+  },
+  {
+    "product_id": "00000101",
+    "name": "IP-SUISSE - Oeufs suisses M - élevage en plein air",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/oeufs-suisses-plein-air-53g-ip-suisse.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000102",
+    "name": "Migros Bio - Oeufs suisses M - élevage en plein air",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-oeufs-ch-plein-air-53g.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg bio",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs",
+      "bio",
+      "egg bio",
+      "eggs bio",
+      "oeuf bio",
+      "oeufs bio"
+    ]
+  },
+  {
+    "product_id": "00000103",
+    "name": "Naturafarm Oeufs élevage en plein air 53g+ 10 pièces",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3407653_001.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000104",
+    "name": "Oeufs Élevage en plein air Suisse 10 Pièce 53g+",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7114184_001.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000105",
+    "name": "Oeufs importés d’élevage au sol, pack de 10",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8886410870785_743731-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000106",
+    "name": "Oeufs suisses d’élevage au sol, pack de 10",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8825100435457_743720-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000107",
+    "name": "Oeufs IP-SUISSE",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/016786_25_06_11.png",
+    "general_unit": "1piece",
+    "product_type": "egg",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs"
+    ]
+  },
+  {
+    "product_id": "00000108",
+    "name": "Oeufs bio suisses",
+    "category": "milk, butter, eggs",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/016748_2_c_K.png",
+    "general_unit": "1piece",
+    "product_type": "egg bio",
+    "keywords": [
+      "egg",
+      "eggs",
+      "oeuf",
+      "oeufs",
+      "bio",
+      "egg bio",
+      "eggs bio",
+      "oeuf bio",
+      "oeufs bio"
+    ]
+  },
+  {
+    "product_id": "00000109",
+    "name": null,
+    "category": "milk, butter, eggs",
+    "image_url": null,
+    "general_unit": "1piece",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000110",
+    "name": null,
+    "category": "milk, butter, eggs",
+    "image_url": null,
+    "general_unit": "1piece",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000111",
+    "name": "M-Classic - Riz long grain - parboiled",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-classic-riz-a-grain-long-parboiled.jpg",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000112",
+    "name": "M-Budget - Riz long grain",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-budget-riz-long-grain-parboiled.jpg",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000113",
+    "name": "Naturaplan Bio Fairtrade Riz basmati",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/4085071_001.jpg",
+    "general_unit": "100g",
+    "product_type": "rice bio",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz",
+      "bio",
+      "rice bio",
+      "riz bio"
+    ]
+  },
+  {
+    "product_id": "00000114",
+    "name": "Prix Garantie Riz à grain long étuvé",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6554390_001.jpg",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000115",
+    "name": "BON-RI Riz express, riz basmati",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/194327002_808852-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000116",
+    "name": "BON-RI Riz au jasmin",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/8929976778753_836393-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000117",
+    "name": "Riz Denner",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/035109_22_02_11.png",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000118",
+    "name": null,
+    "category": "carbohydrates",
+    "image_url": null,
+    "general_unit": "100g",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000119",
+    "name": "Riz Parboiled Vitamin, Liberty Gold",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/444754_FR_1.webp",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000120",
+    "name": "Riz sauvage mix, Liberty Gold",
+    "category": "carbohydrates",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/444774_FR_1.webp",
+    "general_unit": "100g",
+    "product_type": "rice",
+    "keywords": [
+      "rice",
+      "basmati",
+      "riz"
+    ]
+  },
+  {
+    "product_id": "00000121",
+    "name": "Migros Fresca - Bananes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/bananes.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000122",
+    "name": "M-Budget - Bananes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/m-budget-bananes.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000123",
+    "name": "Fairtrade Bananes env. 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6495789_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000124",
+    "name": "Prix Garantie bananes env. 1.2kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/6832787_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000125",
+    "name": "Banane la pièce",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-61010_61010-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000126",
+    "name": "BIO Fairtrade Banane la pièce",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-61010_61010-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "banana bio",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes",
+      "bio",
+      "fairtrade",
+      "banana bio",
+      "banane bio",
+      "bananes bio"
+    ]
+  },
+  {
+    "product_id": "00000127",
+    "name": "Bananes bio",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801911_22_03_17.png",
+    "general_unit": "1kg",
+    "product_type": "banana bio",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes",
+      "bio",
+      "fairtrade",
+      "banana bio",
+      "banane bio",
+      "bananes bio"
+    ]
+  },
+  {
+    "product_id": "00000128",
+    "name": "Bananes Denner",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801578_22_04_13.png",
+    "general_unit": "1kg",
+    "product_type": "banana",
+    "keywords": [
+      "banane",
+      "banana",
+      "bananes"
+    ]
+  },
+  {
+    "product_id": "00000129",
+    "name": null,
+    "category": "fruits and vegetables",
+    "image_url": null,
+    "general_unit": "1kg",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000130",
+    "name": null,
+    "category": "fruits and vegetables",
+    "image_url": null,
+    "general_unit": "1kg",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000131",
+    "name": "Migros Fresca - Pomme - rouge douce Gala",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/pommes-rouges-douces-gala.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000132",
+    "name": "Migros Bio - Pommes - Topaz",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/migros-bio-pommes-topaz.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple bio",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple",
+      "bio",
+      "fairtrade",
+      "apple bio",
+      "pomme bio",
+      "pommes bio"
+    ]
+  },
+  {
+    "product_id": "00000133",
+    "name": "Pommes Gala douceâtre IP-Suisse env. 500g",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7060876_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000134",
+    "name": "Naturaplan Bio Pommes Topaz env. 500g",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3090469_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple bio",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple",
+      "bio",
+      "fairtrade",
+      "apple bio",
+      "pomme bio",
+      "pommes bio"
+    ]
+  },
+  {
+    "product_id": "00000135",
+    "name": "Pommes suisses Gala 1kg, SUISSE GARANTIE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-747483_747483-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000136",
+    "name": "Pommes suisse 2kg, SUISSE GARANTIE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-748169_748169-CH-de_ch-FR01_2000x2000.jpg",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000137",
+    "name": "Pommes Gala",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/803121_25_04_16.png",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000138",
+    "name": "Pommes IP-SUISSE",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/803121_25_04_16.png",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000139",
+    "name": "Pommes Pink Lady I, de Suisse",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/449837_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "apple",
+    "keywords": [
+      "pommes",
+      "pomme",
+      "apple"
+    ]
+  },
+  {
+    "product_id": "00000140",
+    "name": null,
+    "category": "fruits and vegetables",
+    "image_url": null,
+    "general_unit": "1kg",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000141",
+    "name": "Migros Fresca - Oranges - blondes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/oranges-blondes.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000142",
+    "name": "Migros Fresca - Oranges blondes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/oranges-blondes.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000143",
+    "name": "Oranges blondes 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/7360580_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000144",
+    "name": "Naturaplan Bio Oranges blondes env. 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/3371561_001.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange bio",
+    "keywords": [
+      "oranges",
+      "orange",
+      "bio",
+      "fairtrade",
+      "oranges bio",
+      "orange bio"
+    ]
+  },
+  {
+    "product_id": "00000145",
+    "name": "BIO Oranges 1kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-711279_711279-CH-de_ch-FR01_700x700.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange bio",
+    "keywords": [
+      "oranges",
+      "orange",
+      "bio",
+      "fairtrade",
+      "oranges bio",
+      "orange bio"
+    ]
+  },
+  {
+    "product_id": "00000146",
+    "name": "Oranges 2kg",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/99-711279_711279-CH-de_ch-FR01_700x700.jpg",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000147",
+    "name": "Oranges bio",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801801_25_04_17_OFFEN.png",
+    "general_unit": "1kg",
+    "product_type": "orange bio",
+    "keywords": [
+      "oranges",
+      "orange",
+      "bio",
+      "fairtrade",
+      "oranges bio",
+      "orange bio"
+    ]
+  },
+  {
+    "product_id": "00000148",
+    "name": "Oranges blondes",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/801801_25_04_17_OFFEN.png",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000149",
+    "name": "Oranges de Sicile",
+    "category": "fruits and vegetables",
+    "image_url": "https://storage.googleapis.com/chaze-71953.firebasestorage.app/product_images/51155_FR_1.webp",
+    "general_unit": "1kg",
+    "product_type": "orange",
+    "keywords": [
+      "oranges",
+      "orange"
+    ]
+  },
+  {
+    "product_id": "00000150",
+    "name": null,
+    "category": "fruits and vegetables",
+    "image_url": null,
+    "general_unit": "1kg",
+    "product_type": null,
+    "keywords": []
+  },
+  {
+    "product_id": "00000151",
+    "name": null,
+    "category": "",
+    "image_url": null,
+    "general_unit": "1L",
+    "product_type": null,
+    "keywords": []
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082412165737",
+    "firebase_url": "https://chaze-71953-default-rtdb.firebaseio.com",
+    "project_id": "chaze-71953",
+    "storage_bucket": "chaze-71953.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082412165737:android:2f5c456158ba99e23090f8",
+        "android_client_info": {
+          "package_name": "com.epfl.esl.chaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082412165737-6vd3t58dt53qohssj92a55ln5b7eol97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epfl.esl.chaze",
+            "certificate_hash": "e3e94b3eed013d8074d5b8d94190941a5831b4f2"
+          }
+        },
+        {
+          "client_id": "1082412165737-ajin5c8slh816fnnqi974s6av8i7305b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiTPYxmVqmIj3s3DHCc9P9sdX5yYgJbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082412165737-ajin5c8slh816fnnqi974s6av8i7305b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,962 @@
+{
+  "00000001": [
+    "milk",
+    "lait"
+  ],
+  "00000002": [
+    "milk",
+    "lait"
+  ],
+  "00000003": [
+    "milk",
+    "lait",
+    "bio",
+    "milk bio",
+    "lait bio"
+  ],
+  "00000004": [
+    "milk",
+    "lait"
+  ],
+  "00000005": [
+    "milk",
+    "lait"
+  ],
+  "00000006": [
+    "milk",
+    "lait",
+    "bio",
+    "milk bio",
+    "lait bio"
+  ],
+  "00000007": [
+    "milk",
+    "lait"
+  ],
+  "00000008": [
+    "milk",
+    "lait",
+    "bio",
+    "milk bio",
+    "lait bio"
+  ],
+  "00000009": [
+    "milk",
+    "lait"
+  ],
+  "00000010": [],
+  "00000011": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000012": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000013": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000014": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000015": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000016": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000017": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000018": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000019": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000020": [
+    "bread",
+    "pain",
+    "toast",
+    "baguette"
+  ],
+  "00000021": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000022": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000023": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000024": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000025": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000026": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000027": [],
+  "00000028": [],
+  "00000029": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000030": [
+    "pasta",
+    "pâtes",
+    "spaghetti",
+    "pates",
+    "pate",
+    "penne",
+    "barilla"
+  ],
+  "00000031": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage",
+    "bio",
+    "fromage bio",
+    "cheese bio"
+  ],
+  "00000032": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000033": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000034": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage",
+    "bio",
+    "fromage bio",
+    "cheese bio"
+  ],
+  "00000035": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000036": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000037": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000038": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000039": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000040": [
+    "aop",
+    "dairy",
+    "gruyere",
+    "gruyère",
+    "cheese",
+    "fromage"
+  ],
+  "00000041": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000042": [
+    "poulet",
+    "poulet bio",
+    "chicken",
+    "chicken bio",
+    "bio",
+    "breast",
+    "escalopes"
+  ],
+  "00000043": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000044": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000045": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000046": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000047": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000048": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000049": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000050": [
+    "poulet",
+    "chicken",
+    "breast",
+    "escalopes"
+  ],
+  "00000051": [
+    "tomate",
+    "tomato",
+    "tomates",
+    "bio",
+    "fairtrade",
+    "tomato bio",
+    "tomate bio",
+    "tomates bio"
+  ],
+  "00000052": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000053": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000054": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000055": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000056": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000057": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000058": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000059": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000060": [
+    "tomate",
+    "tomato",
+    "tomates"
+  ],
+  "00000061": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000062": [
+    "carrot",
+    "carrots",
+    "carotte",
+    "carottes",
+    "bio",
+    "fairtrade",
+    "carrot bio",
+    "carrots bio",
+    "carotte bio",
+    "carottes bio"
+  ],
+  "00000063": [
+    "carrot",
+    "carrots",
+    "carotte",
+    "carottes",
+    "bio",
+    "fairtrade",
+    "carrot bio",
+    "carrots bio",
+    "carotte bio",
+    "carottes bio"
+  ],
+  "00000064": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000065": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000066": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000067": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000068": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000069": [
+    "carotte",
+    "carrot",
+    "carrots",
+    "carottes"
+  ],
+  "00000070": [],
+  "00000071": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000072": [
+    "potato",
+    "potato bio",
+    "bio",
+    "pomme de terre bio",
+    "pomme de terre",
+    "pommes de terre",
+    "pommes de terre bio",
+    "patates",
+    "patates bio",
+    "patate",
+    "patate bio"
+  ],
+  "00000073": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000074": [
+    "potato",
+    "potato bio",
+    "bio",
+    "pomme de terre bio",
+    "pomme de terre",
+    "pommes de terre",
+    "pommes de terre bio",
+    "patates",
+    "patates bio",
+    "patate",
+    "patate bio"
+  ],
+  "00000075": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000076": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000077": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000078": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000079": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000080": [
+    "potato",
+    "pommes de terre",
+    "pomme de terre",
+    "patates",
+    "patate"
+  ],
+  "00000081": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000082": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000083": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000084": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000085": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000086": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000087": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000088": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000089": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000090": [
+    "toilet",
+    "paper",
+    "papier",
+    "toilet paper",
+    "papier toilette"
+  ],
+  "00000091": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000092": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000093": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000094": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000095": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000096": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000097": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000098": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000099": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000100": [
+    "laundry",
+    "detergent",
+    "lessive",
+    "laundry detergent",
+    "détergent",
+    "liquide lessive",
+    "liquide"
+  ],
+  "00000101": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000102": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs",
+    "bio",
+    "egg bio",
+    "eggs bio",
+    "oeuf bio",
+    "oeufs bio"
+  ],
+  "00000103": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000104": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000105": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000106": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000107": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs"
+  ],
+  "00000108": [
+    "egg",
+    "eggs",
+    "oeuf",
+    "oeufs",
+    "bio",
+    "egg bio",
+    "eggs bio",
+    "oeuf bio",
+    "oeufs bio"
+  ],
+  "00000109": [],
+  "00000110": [],
+  "00000111": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000112": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000113": [
+    "rice",
+    "basmati",
+    "riz",
+    "bio",
+    "rice bio",
+    "riz bio"
+  ],
+  "00000114": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000115": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000116": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000117": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000118": [],
+  "00000119": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000120": [
+    "rice",
+    "basmati",
+    "riz"
+  ],
+  "00000121": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000122": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000123": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000124": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000125": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000126": [
+    "banane",
+    "banana",
+    "bananes",
+    "bio",
+    "fairtrade",
+    "banana bio",
+    "banane bio",
+    "bananes bio"
+  ],
+  "00000127": [
+    "banane",
+    "banana",
+    "bananes",
+    "bio",
+    "fairtrade",
+    "banana bio",
+    "banane bio",
+    "bananes bio"
+  ],
+  "00000128": [
+    "banane",
+    "banana",
+    "bananes"
+  ],
+  "00000129": [],
+  "00000130": [],
+  "00000131": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000132": [
+    "pommes",
+    "pomme",
+    "apple",
+    "bio",
+    "fairtrade",
+    "apple bio",
+    "pomme bio",
+    "pommes bio"
+  ],
+  "00000133": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000134": [
+    "pommes",
+    "pomme",
+    "apple",
+    "bio",
+    "fairtrade",
+    "apple bio",
+    "pomme bio",
+    "pommes bio"
+  ],
+  "00000135": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000136": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000137": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000138": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000139": [
+    "pommes",
+    "pomme",
+    "apple"
+  ],
+  "00000140": [],
+  "00000141": [
+    "oranges",
+    "orange"
+  ],
+  "00000142": [
+    "oranges",
+    "orange"
+  ],
+  "00000143": [
+    "oranges",
+    "orange"
+  ],
+  "00000144": [
+    "oranges",
+    "orange",
+    "bio",
+    "fairtrade",
+    "oranges bio",
+    "orange bio"
+  ],
+  "00000145": [
+    "oranges",
+    "orange",
+    "bio",
+    "fairtrade",
+    "oranges bio",
+    "orange bio"
+  ],
+  "00000146": [
+    "oranges",
+    "orange"
+  ],
+  "00000147": [
+    "oranges",
+    "orange",
+    "bio",
+    "fairtrade",
+    "oranges bio",
+    "orange bio"
+  ],
+  "00000148": [
+    "oranges",
+    "orange"
+  ],
+  "00000149": [
+    "oranges",
+    "orange"
+  ],
+  "00000150": [],
+  "00000151": []
+}
