@@ -227,4 +227,4 @@ You can also ask the chatbot: "Find the cheapest store to buy" a given product
 
 ## License
 
-Developed as part of EE-490 Android Development at EPFL.
+Developed as part of EE-490 Android Development at EPFL by Aksel Acar, Caspar Henking and Cédric Zanou.
